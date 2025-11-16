@@ -1,0 +1,17 @@
+[input]
+type = "head"
+sensitivity = 1.0
+smoothing = 0.3
+
+[cursor]
+dwell_time_ms = 500
+click_on_dwell = true
+precision_mode = false
+
+[text]
+prediction_enabled = true
+voice_enabled = false
+
+[ui]
+show_cursor_overlay = true
+calibration_grid_size = 9

@@ -1,0 +1,14 @@
+{
+  "name": "simpleflow",
+  "version": "0.1.0",
+  "description": "Accessibility software for motor impairments",
+  "dependencies": [
+    "tomlplusplus",
+    "nlohmann-json",
+    "eigen3",
+    "taskflow",
+    "gtest",
+    "opencv4",
+    "imgui"
+  ]
+}
