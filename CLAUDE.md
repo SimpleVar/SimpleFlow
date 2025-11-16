@@ -2,6 +2,10 @@
 
 Accessibility software for motor impairments. OS-level cursor control via eye/head tracking.
 
+## IMPORTANT RESTRICTIONS
+- NEVER perform any git/GitHub actions on repositories other than SimpleFlow
+- Only interact with this repository (SimpleVar/SimpleFlow)
+
 ## Tech Stack
 
 ### Core
